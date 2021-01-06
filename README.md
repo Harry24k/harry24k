@@ -4,6 +4,8 @@
 [![Repos Badge](https://badges.pufler.dev/repos/harry24k)](https://badges.pufler.dev)
 
 [![Harry's github stats](https://github-readme-stats.vercel.app/api?username=harry24k)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
 
 ## Researcher, Developer!
 - I'm currently a Research Intern at [Speech and Language Laboratory](https://www.ntu.edu.sg/home/aseschng/SpeechLab.html) at NTU, Singapore under [Prof.Chng Eng Siong](https://www.ntu.edu.sg/home/aseschng/default.html).
@@ -16,8 +18,6 @@
 
 Checkout the project [**wavencoder**](https://github.com/shangeth/wavencoder), looking for contributors who are interested in Speech Representations, Unsupervised/Semi-Supervised Representation learning and have good PyTorch experience.
 
-
-</div>
 
 <!--
 **Harry24k/harry24k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
