@@ -1,4 +1,4 @@
 ## Welcome,
-* 💼 Professor at Chung-Ang University in South Korea.
-* 🎓 PhD from Seoul National University in South Korea.
-* 📘 Interested in AI w/ _Adversarial Robustness_, _Generalization_, _Explainability_.
+* 💼 Professor at Chung-Ang University, South Korea.
+* 🎓 B.S. and Ph.D. degrees from Seoul National University, South Korea.
+* 📘 Interested in AI with _Adversarial Robustness_, _Generalization_, and _Explainability_.
