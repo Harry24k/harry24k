@@ -4,6 +4,5 @@
 * 📘 Interested in [Trustworthy AI](https://trustworthyai.co.kr/) with _Adversarial Robustness_, _Generalization_, and _Explainability_.
 
 ## News
-$\rightarrow$ **[2024.12]** Going to NeurIPS 2024 in Vancouver, Canada.
-
-$\rightarrow$ **[2024.10]** Our paper _'Are Self-Attentions Effective for Time Series Forecasting?'_ is accepted to NeurIPS 2024 😃 [[paper](https://arxiv.org/abs/2405.16877), [repo](https://github.com/dongbeank/CATS)]
+* **[2024.12]** Going to NeurIPS 2024 in Vancouver, Canada.
+* **[2024.10]** Our paper _'Are Self-Attentions Effective for Time Series Forecasting?'_ is accepted to NeurIPS 2024 😃 [[paper](https://arxiv.org/abs/2405.16877), [repo](https://github.com/dongbeank/CATS)]
