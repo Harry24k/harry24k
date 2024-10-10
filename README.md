@@ -1,7 +1,8 @@
 ## Welcome
-* 💼 Assistant Professor at Chung-Ang University, South Korea.
-* 🎓 B.S. and Ph.D. degrees from Seoul National University, South Korea.
-* 📘 Interested in [Trustworthy AI](https://trustworthyai.co.kr/) with _Adversarial Robustness_, _Generalization_, and _Explainability_.
+* 💼 Assistant Professor at Chung-Ang University, South Korea
+* 🎓 B.S. and Ph.D. degrees from Seoul National University, South Korea
+* 📘 Interested in AI with _Adversarial Robustness_, _Generalization_, and _Explainability_
+* 🥼 For more information, please visit our lab [https://trustworthyai.co.kr](https://trustworthyai.co.kr/) [Korean-Only]
 
 ## News
 * **[2024.12]** Going to NeurIPS 2024 in Vancouver, Canada 🇨🇦
