@@ -5,7 +5,7 @@
 - **📘 Research Interests**:  
   - _Adversarial Robustness_  
   - _Generalization_  
-  - _Explainability in AI_
+  - _Explainable AI_
 - 🥼 For more information, visit my [**Personal Website** (ENG)](https://hokikim.net/) or explore our lab, [**신뢰할 수 있는 인공지능 연구실** (KOR)](https://trustworthyai.co.kr/).
 
 ## Latest News
