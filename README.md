@@ -1,8 +1,8 @@
 ## Welcome
 
-- **💼 Position**: **Assistant Professor at Chung-Ang University**, South Korea  
-- **🎓 Education**: B.S. and Ph.D. degrees from Seoul National University, South Korea  
-- **📘 Research Interests**:  
+- **💼** **Assistant Professor at Chung-Ang University**, South Korea  
+- **🎓** B.S. and Ph.D. degrees from Seoul National University, South Korea  
+- **📘 Research Interests**
   - _Adversarial Robustness_  
   - _Generalization_  
   - _Explainable AI_
