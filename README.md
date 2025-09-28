@@ -3,9 +3,9 @@
 - **💼** **Assistant Professor at Chung-Ang University**, South Korea  
 - **🎓** B.S. and Ph.D. degrees from Seoul National University, South Korea  
 - **📘 Research Interests**
-  - _Robustness (Adversarial attack, generalization)_  
-  - _Privacy (Machine Unlearning, Differential Privacy)_
-  - _Explainable AI (Neural Additive Model, Attention)_
+  - Robustness (Adversarial attack, generalization)
+  - Privacy (Machine Unlearning, Differential Privacy)
+  - Explainable AI (Neural Additive Model, Attention)
 - 🥼 For more information, visit our lab, [**https://trustworthyai.co.kr/**](https://trustworthyai.co.kr/).
 
 ## Latest News
